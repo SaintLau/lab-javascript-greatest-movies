@@ -1,3 +1,22 @@
+
+/*
+let movieArrayDuplicate = movieArray.map((movie) => {
+  if(movieArrayDuplicate.includes(movie.director)) {
+      continue;
+
+  }else {
+
+  }
+*/
+
+
+
+
+
+
+
+
+
 let movies = [
     {
       "title": "The Shawshank Redemption",
